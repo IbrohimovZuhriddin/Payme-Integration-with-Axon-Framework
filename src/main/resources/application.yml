@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: CardCreate123
+
+axon:
+  serializer:
+    events: jackson
+    messages: jackson
+    general: jackson
